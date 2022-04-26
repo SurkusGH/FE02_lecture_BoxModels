@@ -1,0 +1,42 @@
+.fig{
+    height: 200px;
+    width: 200px;
+    border: 10px solid green;
+    border-color: aquamarine;
+    border-style: dotted;
+    border-radius: 10;
+}
+
+.parag{
+    height: 20px;
+    width: 200px;
+    border: 10px solid red;
+    border-color: aquamarine;
+    border-style:dashed;
+    border-radius: 10;
+}
+
+.pic{
+    border: 10px solid red;
+    margin: 50px 50px 50px 50px;
+    display: inline-block;
+}
+
+.padding{
+    padding: 10px 10px 10px 10px;
+    margin: 50px 50px 50px 50px;
+}
+
+.labas{
+    width: 300px;
+    height: 70px;
+    margin: 20px;
+    background-color: aqua;
+}
+
+.viso{
+    width: 300px;
+    height: 70px;
+    padding: 20px;
+    background-color: aquamarine;
+}

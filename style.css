@@ -1,0 +1,64 @@
+header, main, footer {
+    width: 1000px;
+}
+main{
+    padding: 10px;
+    background-color: lightgreen;
+}
+h1{
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+header{
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+nav{
+    background-color: aquamarine;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+
+}
+
+li{
+    display: inline-block;
+    border: 0px 10px;
+    height: 25px;
+    width: 19%;
+    text-align: center;
+}
+
+section{
+    width: 700px;
+    height: 200px;
+    background-color: aquamarine;
+    display: inline-block;
+}
+
+aside{
+    width: 180px;
+    height: 200px;
+    background-color: salmon;
+    padding-left: 60px;
+    padding-right: 60px;
+    display: inline-block;
+    float: right;
+}
+
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 5px 10px;
+    text-align: left;
+    text-indent: 5px;
+}
